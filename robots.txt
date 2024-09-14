@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cwhuu.github.io/cnI/sitemap.cnI.gz
